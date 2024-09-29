@@ -1,14 +1,14 @@
 {
     "name": "ralves/php-sandbox",
     "description": "a sandbox to play with PHP features and concepts",
-    "type": "library",
+    "type": "project",
     "require-dev": {
         "phpunit/phpunit": "^11.3"
     },
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Ralves\\PhpSandbox\\": "src/"
+            "Ralves\\Sandbox\\": "src/"
         }
     },
     "authors": [
